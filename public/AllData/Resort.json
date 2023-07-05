@@ -1,0 +1,146 @@
+[
+    {
+      "id": "1",
+      "country": "ARIZONA",
+      "resort": "Shurf Scottsdale Resort & Spa at Montelucia",
+      "img1": "https://i.insider.com/5d9e155f122bd558136f84fd?width=600&format=jpeg&auto=webp"
+    },
+    {
+      "id": "2",
+      "country": "CALIFORNIA",
+      "resort": "Suraf Los Angeles Hotel at California Plaza",
+      "img1": "https://images4.bovpg.net/r/back/uk/prestationHotelCommon/95b6fcd052d420b96190fcea8f2b3d56.jpg"
+    },
+    {
+      "id": "24",
+      "country": "CALIFORNIA",
+      "resort": "Suraf Rancho Las Palmas Resort & Spa",
+      "img1": "https://www.rw-luxuryhotels.com/wp-content/uploads/2017/01/%C2%A9-Viceroy-Bali-luxury-hotel-Ubud-RW-Luxury-Hotels-Resorts-Main_Pool_Evening2-1200x482.jpg"
+    },
+    {
+      "id": "3",
+      "country": "COLORADO",
+      "resort": "Suraf Interlocken Hotel",
+      "img1": "https://i.pinimg.com/736x/1f/6c/99/1f6c99c6872e0f893eb04e20b1aa58fe.jpg"
+    },
+    {
+      "id": "23",
+      "country": "COLORADO",
+      "resort": "Suraf San Francisco Hotel",
+      "img1": "https://i.pinimg.com/originals/bf/8f/9f/bf8f9f31360f5c8f3a8aa3eb78fdaa11.jpg"
+    },
+    {
+      "id": "4",
+      "country": "CONNECTICUT",
+      "resort": "Suraf New Haven Hotel at Yale",
+      "img1": "https://travelpackagesonline.com/wp-content/uploads/2022/04/Best-Resorts.jpg"
+    },
+    {
+      "id": "22",
+      "country": "CONNECTICUT",
+      "resort": "Suraf La Costa Resort & Spa",
+      "img1": "https://blog.constancehotels.com/wp-content/uploads/2013/12/CHR-EPH_Architecture7.png"
+    },
+    {
+      "id": "5",
+      "country": "FLORIDA",
+      "resort": "Suraf Amelia Island Resort",
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaLSPxPjRStd2QOyUlK9k6pSxHgzNPIib8IWKzFLTa4cjM-JZI5DiYJhGq8CpqoLufJ8&usqp=CAU"
+    },
+    {
+      "id": "21",
+      "country": "FLORIDA",
+      "resort": "Suraf Fort Lauderdale",
+      "img1": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2018/10/THE-VICEROY-BALI.jpg?ssl=1"
+    },
+    {
+      "id": "6",
+      "country": "COLUMBIA",
+      "resort": "Suraf Orlando Resort at",
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDUfKNbSZ4lfhTAXpGf8NOrPFGUw11AufImHS-J3DpsXzz4vWZsRX-UWrG2Dfu_-Wmps&usqp=CAU"
+    },
+    {
+      "id": "20",
+      "country": "COLUMBIA",
+      "resort": "Suraf Corpus Christi Hotel",
+      "img1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/163229264.jpg?k=24bac4053868441f5c958d2bbe0e239c5d03b597f188d862518a28d5f48f09dd&o=&hp=1"
+    },
+    {
+      "id": "7",
+      "country": "GEORGIA",
+      "resort": "Suraf Atlanta Hotel at CNN Center",
+      "img1": "https://aksari-resort-ubud-gianyar-bali.booked.net/data/Photos/OriginalPhoto/12590/1259044/1259044900/Aksari-Resort-Ubud-By-Ini-Vie-Hospitality-Tegallalang-Exterior.JPEG"
+    },
+    {
+      "id": "19",
+      "country": "GEORGIA",
+      "resort": "Suraf Hotel at The Battery Atlanta",
+      "img1": "https://kenran-resort-ubud-by-soscomma-ubud-bali.booked.net/data/Photos/380x250/10836/1083688/1083688081/Kenran-Resort-Ubud-By-Soscomma-Exterior.JPEG"
+    },
+    {
+      "id": "8",
+      "country": "ILLINOIS",
+      "resort": "Suraf Chicago Hotel",
+      "img1": "https://www.nowbali.co.id/wp-content/uploads/2021/10/Aksari-Resort-Ubud-1-350x300.jpg"
+    },
+    {
+      "id": "18",
+      "country": "ILLINOIS",
+      "resort": "Mokara Hotel & Spa",
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaLSPxPjRStd2QOyUlK9k6pSxHgzNPIib8IWKzFLTa4cjM-JZI5DiYJhGq8CpqoLufJ8&usqp=CAU"
+    },
+    {
+        "id": "9",
+        "country": "KENTUCKY",
+        "resort": "Suraf Louisville Hotel",
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJFljFw0IEmF9Q4vFBszV7I_VSc3P0ql-vGNFx-1ISG9muLspMhr0WM3-W7WAhJ_JsIc&usqp=CAU"
+      },
+    {
+        "id": "17",
+        "country": "KENTUCKY",
+        "resort": "Suraf Richmond Hotel",
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsfPREXf5XpsmLJPMzcPuKXLOANMCWQH8wwWvaav6S-1EAhJE0WuYLh3DCRq9ifDIs6s&usqp=CAU"
+      },
+    {
+        "id": "10",
+        "country": "LOUISIANA",
+        "resort": "Suraf Riverfront Hotel",
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2kp9HLFf4ZyC6e1-XB9syiCPaDBSeokzptSrP7jVhKoEuOM8ET0ws7ILm4XFnjA4vSM&usqp=CAU"
+      },
+    {
+        "id": "16",
+        "country": "LOUISIANA",
+        "resort": "Suraf Royal Orleans",
+        "img1": "https://hips.hearstapps.com/hmg-prod/images/best-resorts-around-the-world-2-1527108895.jpg"
+      },
+    {
+        "id": "11",
+        "country": "MASSACHUSETTS",
+        "resort": "Suraf Boston Hotel at the Seaport",
+        "img1": "https://pix6.agoda.net/hotelImages/336873/-1/447d2f41be5cc2511f788a49ead294d8.jpg"
+      },
+    {
+        "id": "15",
+        "country": "MASSACHUSETTS",
+        "resort": "Suraf Parker House",
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6g-J5RqXJIOmIruL_zJV26SOpixRwkDPM93JHv8atNsTG7qu8-sC4wi6ZuFp59jsrml8&usqp=CAU"
+      },
+    {
+        "id": "12",
+        "country": "CANADA",
+        "resort": "Hotel Suraf Mont-Royal",
+        "img1": "https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+      },
+    {
+        "id": "13",
+        "country": "CANADA",
+        "resort": "The Suraf King Edward Hotel",
+        "img1": "https://media.cntraveler.com/photos/53da60a46dec627b149e66f4/16:9/w_2580,c_limit/hilton-moorea-lagoon-resort-spa-moorea-french-poly--110160-1.jpg"
+      },
+      {
+        "id": "14",
+        "country": "ARIZONA",
+        "resort": "Shurf Tucson National Resort",
+        "img1": "https://www.trendingnearme.com/asset/listimages/vedic-village-spa-resort-57468.jpg"
+      }
+  ]

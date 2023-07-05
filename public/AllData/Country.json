@@ -1,0 +1,62 @@
+[
+    {
+      "id": "1",
+      "country": "ARIZONA",
+      "img": "https://assets3.thrillist.com/v1/image/3049792/1000x666/flatten;crop;webp=auto;jpeg_quality=60.jpg"
+    },
+    {
+      "id": "2",
+      "country": "CALIFORNIA",
+      "img": "https://www.travelandleisure.com/thmb/QbkeC6xy9WjttZmm3Qtriq-d1tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-Big-Sur-CAPLACES0323-564987dcbc364b658364e51cc250947a.jpg"
+    },
+    {
+      "id": "3",
+      "country": "COLORADO",
+      "img": "https://assets3.thrillist.com/v1/image/2876840/1000x666/flatten;crop;webp=auto;jpeg_quality=60.jpg"
+    },
+    {
+      "id": "4",
+      "country": "CONNECTICUT",
+      "img": "https://newenglandwithlove.com/wp-content/uploads/2021/05/wadsworth-falls.jpg"
+    },
+    {
+      "id": "5",
+      "country": " COLUMBIA",
+      "img": "https://assets3.thrillist.com/v1/image/2819987/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70"
+    },
+    {
+      "id": "6",
+      "country": "FLORIDA",
+      "img": "https://www.worldatlas.com/r/w768/upload/2e/0a/e4/shutterstock-528579187.jpg"
+    },
+    {
+      "id": "7",
+      "country": "GEORGIA",
+      "img": "https://www.travelanddestinations.com/wp-content/uploads/2020/01/Beautiful-landscapes-in-Georgia.jpg"
+    },
+    {
+      "id": "8",
+      "country": "ILLINOIS",
+      "img": "https://publish.purewow.net/wp-content/uploads/sites/2/2021/06/most-beautiful-places-in-illinois-starved-rock-state-park.jpg?fit=728%2C524"
+    },
+    {
+      "id": "9",
+      "country": "KENTUCKY",
+      "img": "https://www.worldatlas.com/upload/49/42/23/adobestock-242505834.jpg"
+    },
+    {
+      "id": "10",
+      "country": "LOUISIANA",
+      "img": "https://globalgrasshopper.com/wp-content/uploads/2020/12/Shreveport-Skyline.jpg"
+    },
+    {
+      "id": "11",
+      "country": "MASSACHUSETTS",
+      "img": "https://assets3.thrillist.com/v1/image/3066084/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70"
+    },
+    {
+      "id": "12",
+      "country": "CANADA",
+      "img": "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2022/10/Vancouver-British-Columbia-Canada.jpg"
+    }
+  ]
